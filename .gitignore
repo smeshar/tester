@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+.ui
+Lib/
+Scripts/
+vopros1.py
+vopros2.py
+vopros3.py
+vopros4.py
+teacher1.py
+teacher2.py
+result.py
+register.py
+register2.py
+testlist.py
